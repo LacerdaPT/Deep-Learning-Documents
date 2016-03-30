@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="518.87183"
+   height="441.8027"
    id="svg3287"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="firstANN.svg">
   <defs
      id="defs3289" />
   <sodipodi:namedview
@@ -24,17 +24,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="221.71576"
-     inkscape:cy="868.80881"
+     inkscape:zoom="0.7"
+     inkscape:cx="35.400368"
+     inkscape:cy="144.42058"
      inkscape:document-units="px"
-     inkscape:current-layer="g6884"
+     inkscape:current-layer="g3460"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="744"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata3292">
     <rdf:RDF>
@@ -50,7 +54,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(2.4599538,-16.941899)">
     <g
        id="g6612"
        transform="matrix(1.1928105,0,0,1.1928105,189.83328,-47.734457)">
@@ -124,16 +129,16 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-size:15.60366249px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-             x="379.32791"
-             y="567.61847"
+             style="font-size:22.14757729px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="378.73358"
+             y="572.59033"
              id="text3511"
              sodipodi:linespacing="125%"><tspan
                sodipodi:role="line"
                id="tspan3513"
-               x="379.32791"
-               y="567.61847">h<tspan
-   style="font-size:10.14252377px;baseline-shift:sub"
+               x="378.73358"
+               y="572.59033">h<tspan
+   style="font-size:14.39612865px;baseline-shift:sub"
    id="tspan3515">w,b</tspan></tspan></text>
         </g>
         <circle
@@ -272,39 +277,39 @@
            sodipodi:nodetypes="cc" />
         <text
            xml:space="preserve"
-           style="font-size:16.07881927px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-           x="-142.47037"
-           y="362.25259"
+           style="font-size:26.33154488px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+           x="-152.49937"
+           y="396.61884"
            id="text6450"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan6452"
-             x="-142.47037"
-             y="362.25259"
-             style="font-size:10.89863014px">Input</tspan><tspan
+             x="-152.49937"
+             y="396.61884"
+             style="font-size:17.84818649px">Input</tspan><tspan
              sodipodi:role="line"
-             x="-142.47037"
-             y="375.87589"
+             x="-152.49937"
+             y="418.92908"
              id="tspan3551"
-             style="font-size:10.89863014px">Layer</tspan></text>
+             style="font-size:17.84818649px">Layer</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:16.06582069px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-           x="33.841408"
-           y="362.4202"
+           style="font-size:26.31025696px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+           x="21.467598"
+           y="398.58704"
            id="text6488"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan6490"
-             x="33.841408"
-             y="362.4202"
-             style="font-size:10.89863014px">Hidden<tspan
-   style="font-size:54.49371338%;baseline-shift:sub"
+             x="21.467598"
+             y="398.58704"
+             style="font-size:17.84818649px">Hidden<tspan
+   style="font-size:9.72613907px;baseline-shift:sub"
    id="tspan3563" /></tspan><tspan
              sodipodi:role="line"
-             x="33.841408"
-             y="376.04349"
-             style="font-size:10.89863014px"
+             x="21.467598"
+             y="420.89728"
+             style="font-size:17.84818649px"
              id="tspan3571">Layer</tspan></text>
         <circle
            sodipodi:ry="19.380079"
@@ -388,59 +393,59 @@
    id="tspan3484">3</tspan></tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:15.48137283px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="-148.8591"
-           y="319.65305"
+           style="font-size:25.35313416px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="-162.96191"
+           y="326.8555"
            id="text3529"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3531"
-             x="-148.8591"
-             y="319.65305"
-             style="font-size:10.89863014px">Layer L<tspan
-   style="font-size:54.49371338%;baseline-shift:sub"
+             x="-162.96191"
+             y="326.8555"
+             style="font-size:17.84818649px">Layer L<tspan
+   style="font-size:9.72613907px;baseline-shift:sub"
    id="tspan3561">1</tspan></tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:15.48137283px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="31.153082"
-           y="319.65305"
+           style="font-size:25.35313416px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="17.065073"
+           y="328.54922"
            id="text3535"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3537"
-             x="31.153082"
-             y="319.65305"
-             style="font-size:10.89863014px">Layer L<tspan
-   style="font-size:54.49371338%;baseline-shift:sub"
+             x="17.065073"
+             y="328.54922"
+             style="font-size:17.84818649px">Layer L<tspan
+   style="font-size:9.72613907px;baseline-shift:sub"
    id="tspan3559">2</tspan></tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:11.33264732px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="189.74612"
-           y="316.61935"
+           style="font-size:18.55895615px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="174.84654"
+           y="321.88736"
            id="text3539"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3541"
-             x="189.74612"
-             y="316.61935">Layer L<tspan
-   style="font-size:7.36632395px;baseline-shift:sub"
+             x="174.84654"
+             y="321.88736">Layer L<tspan
+   style="font-size:12.06349087px;baseline-shift:sub"
    id="tspan3543">3</tspan></tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:10.89863014px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="193.99457"
-           y="362.32443"
+           style="font-size:17.84818649px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="181.80402"
+           y="396.73648"
            id="text3565"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3567"
-             x="193.99457"
-             y="362.32443">Output</tspan><tspan
+             x="181.80402"
+             y="396.73648">Output</tspan><tspan
              sodipodi:role="line"
-             x="193.99457"
-             y="375.94772"
+             x="181.80402"
+             y="419.04672"
              id="tspan3569">Layer</tspan></text>
       </g>
     </g>
